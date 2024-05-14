@@ -1,0 +1,4 @@
+
+§
+java:S1130"‰Remove the declaration of thrown exception 'javax.mail.internet.AddressException' which is a subclass of 'javax.mail.MessagingException'.(ΰΑρ8Ε°ΩΖχ1
+G	java:S1069"+Replace this use of System.out by a logger.(σ’µλ8Ι°ΩΖχ1
